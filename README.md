@@ -1,5 +1,5 @@
 # Hi, I'm Bindu Kumar 👋
-🎯 Data Scientist | 🎰 Gaming Industry | 🇮🇳 India
+🎯 Senior Data Scientist | 🎰 Gaming Industry | 🇮🇳 India
 
 - 🔭 Currently exploring Deep Learning , CNN , Generative AI and Personalization Models
 - 🌱 Learning LangChain and RAG
